@@ -107,24 +107,24 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
     }
   },
-  {
-    "id": 7,
-    "name": "Anthony Davis",
-    "description": "Anthony Davis is een dominante big man.",
-    "age": 31,
+ {
+  "id": 7,
+  "name": "Victor Wembanyama",
+  "description": "Victor Wembanyama is een uitzonderlijk getalenteerde big man met een unieke combinatie van lengte, mobiliteit en skills.",
+  "age": 21,
+  "isActive": true,
+  "birthDate": "2004-01-04",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Victor_Wembanyama_2023.jpg",
+  "position": "Center",
+  "team": {
+    "id": 6,
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "foundedYear": 1967,
     "isActive": true,
-    "birthDate": "1993-03-11",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Anthony_Davis_2023.jpg",
-    "position": "Center",
-    "team": {
-      "id": 6,
-      "name": "Dallas Mavericks",
-      "city": "Dallas",
-      "foundedYear": 1980,
-      "isActive": true,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
-    }
-  },
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg"
+  }
+},
   {
     "id": 8,
     "name": "Jimmy Butler",
