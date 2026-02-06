@@ -6,7 +6,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "1999-02-28",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luka_Doncic_2023.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=350&h=254",
     "position": "Guard",
     "team": {
       "id": 1,
@@ -24,7 +24,7 @@
     "age": 36,
     "isActive": true,
     "birthDate": "1988-03-14",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Stephen_Curry_2022.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=350&h=254",
     "position": "Guard",
     "team": {
       "id": 2,
@@ -42,7 +42,7 @@
     "age": 36,
     "isActive": true,
     "birthDate": "1988-09-29",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kevin_Durant_2021.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3202.png&w=350&h=254",
     "position": "Forward",
     "team": {
       "id": 3,
@@ -60,7 +60,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1994-12-06",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Giannis_Antetokounmpo_2021.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3032977.png&w=350&h=254",
     "position": "Forward",
     "team": {
       "id": 4,
@@ -78,7 +78,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1995-02-19",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nikola_Jokic_2023.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=350&h=254",
     "position": "Center",
     "team": {
       "id": 5,
@@ -96,7 +96,7 @@
     "age": 32,
     "isActive": true,
     "birthDate": "1992-03-23",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kyrie_Irving_2022.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6442.png&w=350&h=254",
     "position": "Guard",
     "team": {
       "id": 6,
@@ -114,7 +114,7 @@
   "age": 21,
   "isActive": true,
   "birthDate": "2004-01-04",
-  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Victor_Wembanyama_2023.jpg",
+  "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5104157.png&w=350&h=254",
   "position": "Center",
   "team": {
     "id": 6,
@@ -132,7 +132,7 @@
     "age": 35,
     "isActive": true,
     "birthDate": "1989-09-14",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Jimmy_Butler_2022.jpg",
+    "imageUrl": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6430.png&w=350&h=254",
     "position": "Forward",
     "team": {
       "id": 2,
