@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Luka Dončić",
+    "description": "Luka Dončić is een Sloveense professionele basketballer en een van de grootste sterren in de NBA.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-02-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luka_Doncic_2023.jpg",
+    "position": "Guard",
+    "team": {
+      "id": 1,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "foundedYear": 1947,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Stephen Curry",
+    "description": "Stephen Curry is een legendarische shooter en franchiseplayer van de Warriors.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1988-03-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Stephen_Curry_2022.jpg",
+    "position": "Guard",
+    "team": {
+      "id": 2,
+      "name": "Golden State Warriors",
+      "city": "San Francisco",
+      "foundedYear": 1946,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Kevin Durant",
+    "description": "Kevin Durant is een van de beste scorers in de NBA.",
+    "age": 36,
+    "isActive": true,
+    "birthDate": "1988-09-29",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kevin_Durant_2021.jpg",
+    "position": "Forward",
+    "team": {
+      "id": 3,
+      "name": "Houston Rockets",
+      "city": "Houston",
+      "foundedYear": 1967,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Giannis Antetokounmpo",
+    "description": "Giannis is een fysieke kracht en tweevoudig MVP.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1994-12-06",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Giannis_Antetokounmpo_2021.jpg",
+    "position": "Forward",
+    "team": {
+      "id": 4,
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "foundedYear": 1968,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nikola Jokić",
+    "description": "Nikola Jokić is een spelverdeler in het lichaam van een center.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1995-02-19",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nikola_Jokic_2023.jpg",
+    "position": "Center",
+    "team": {
+      "id": 5,
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "foundedYear": 1967,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kyrie Irving",
+    "description": "Kyrie Irving is bekend om zijn dribbelvaardigheid.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1992-03-23",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kyrie_Irving_2022.jpg",
+    "position": "Guard",
+    "team": {
+      "id": 6,
+      "name": "Dallas Mavericks",
+      "city": "Dallas",
+      "foundedYear": 1980,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Anthony Davis",
+    "description": "Anthony Davis is een dominante big man.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-03-11",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Anthony_Davis_2023.jpg",
+    "position": "Center",
+    "team": {
+      "id": 6,
+      "name": "Dallas Mavericks",
+      "city": "Dallas",
+      "foundedYear": 1980,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jimmy Butler",
+    "description": "Jimmy Butler staat bekend om zijn intensiteit en leiderschap.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "1989-09-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Jimmy_Butler_2022.jpg",
+    "position": "Forward",
+    "team": {
+      "id": 2,
+      "name": "Golden State Warriors",
+      "city": "San Francisco",
+      "foundedYear": 1946,
+      "isActive": true,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg"
+    }
+  }
+]
